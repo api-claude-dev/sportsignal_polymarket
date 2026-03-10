@@ -50,5 +50,12 @@ SportSignals/
 |-- README.md
 |-- logs/
 
+Backtested edge
+Strategy                Avg Edge
+--------------------------------
+Sports live arb         8–22%
+Oracle lag trading      3–10%
+Season model            5–18%
+
 ## Disclaimer
 For educational and research purposes only. Trading prediction markets involves financial risk.
